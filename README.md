@@ -1,3 +1,9 @@
+> **Course**: CS 320: Software Testing, Automation, and Quality Assurance  
+> **Description**: Software Test Automation & Quality Assurance Portfolio  
+> **Part of**: [CS SWE Degree Path](https://github.com/Azteriisk/CS-SWE-Degree-Path)
+
+---
+
 # CS-320 Software Test, Automation, and QA Portfolio
 
 This repository contains my portfolio submission for CS-320. It includes artifacts from Project One and Project Two that demonstrate my ability to implement unit tests, analyze requirements, and evaluate software quality and security.
